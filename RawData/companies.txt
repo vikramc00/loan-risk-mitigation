@@ -1,0 +1,39 @@
+customer_id=4522
+completion_type=Natural Payoff
+company_type=SaaS (price optimization platform for Amazon/Walmart merchants)
+Notes:
+
+* We made two loans to this business.  The first was for $500k in
+Oct 2017.  It was quickly recapped to $740k in Dec 2017, and paid
+off on schedule (with a small balloon payment of appx 3-4 months) in Feb 2021.
+
+customer_id=4436
+completion_type=Early Payoff
+company_type=SaaS (unified channel management platform)
+Notes:
+
+* There are two semi-overlapping transaction files for this borrower.
+This is a fairly common occurrence in our data due to merging
+multiple data sources.  We try to merge them into a single data
+set, but in some cases (like this one), have not yet completed
+reconciling the data.
+
+* We made three loans to this business.  The first was for $500k
+in Oct 2017.  It was recapped to $630k in Oct 2018, and then to
+$810k in Apr 2019.
+
+* This borrower struggled to make payments on the third loan in a
+timely manner, but ultimately paid the entire amount off in Sep
+2021, seven months before the maturity date of 4/30/2022.
+
+Underperforming: Company that received loan at least a year ago with cumulative P2P < 0.8
+customer_id=4704
+SaaS (legal services)
+$250k originated Feb 2020
+P2P as of Sep 2021: 72%
+
+Overperforming: Company that received loan at least a year ago with cumulative P2P > 1.2
+customer_id=6374
+SaaS (newsletter platform)
+$750k in March 2020
+P2P as of Sep 2021: 131%
